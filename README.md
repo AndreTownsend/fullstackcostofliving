@@ -60,6 +60,6 @@ Normalized and scaled to 0–100.
 
 ### Cumulative Real Wage Growth
 ```markdown
-![Real Wage Growth](your_line_chart.png)
+![Real Wage Growth](colc1.png)
 
-![Economic Pressure Map](your_map.png)
+
