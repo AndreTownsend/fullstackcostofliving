@@ -59,7 +59,6 @@ Normalized and scaled to 0–100.
 ## Key Visualizations
 
 ### Cumulative Real Wage Growth
-```markdown
 ![Real Wage Growth](colc1.png)
 
 
