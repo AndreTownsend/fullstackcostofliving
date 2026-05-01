@@ -1,13 +1,13 @@
-# 🌍 Inflation in the Digital Age — Economic Pressure Analysis
+# Inflation in the Digital Age — Economic Pressure Analysis
 
-## 📌 Executive Summary
+## Executive Summary
 This project analyzes the impact of inflation on real wages and cost of living across major global economies from 2015 to 2023. By combining World Bank data with wage growth and housing cost indicators, the analysis introduces an **Economic Pressure Index** to measure how inflation, rent, and wage stagnation affect consumers.
 
 The results highlight widening economic pressure in developed economies, particularly where inflation outpaces wage growth.
 
 ---
 
-## ❗ Business Problem
+## Business Problem
 Rising inflation has become a global concern, but its real impact depends on how wages and living costs respond.
 
 **Key Questions:**
@@ -18,9 +18,9 @@ Rising inflation has become a global concern, but its real impact depends on how
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
-### 📡 Data Sources
+### Data Sources
 - World Bank API (`wbgapi`)
   - Inflation (CPI)
   - GDP per capita
@@ -31,7 +31,7 @@ Rising inflation has become a global concern, but its real impact depends on how
 
 ---
 
-### 🔧 Data Processing
+### Data Processing
 - Merged datasets using country + year keys  
 - Calculated:
   - **Real Wage Growth = Wage Growth − Inflation**
@@ -40,7 +40,7 @@ Rising inflation has become a global concern, but its real impact depends on how
 
 ---
 
-### 📊 Economic Pressure Index (2023)
+### Economic Pressure Index (2023)
 A custom index combining:
 - Inflation (40%)  
 - Rent burden (30%)  
@@ -50,15 +50,15 @@ Normalized and scaled to 0–100.
 
 ---
 
-### 🗄️ Data Engineering
+### Data Engineering
 - Stored structured data in **SQLite database**
 - Queried using SQL for aggregated insights
 
 ---
 
-## 📊 Key Visualizations
+## Key Visualizations
 
-### 📈 Cumulative Real Wage Growth
+### Cumulative Real Wage Growth
 ```markdown
 ![Real Wage Growth](your_line_chart.png)
 
