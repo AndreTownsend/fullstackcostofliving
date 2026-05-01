@@ -1,4 +1,4 @@
-# Inflation in the Digital Age — Economic Pressure Analysis
+# Global Inflation Analysis (Full-Stack)
 
 ## Executive Summary
 This project analyzes the impact of inflation on real wages and cost of living across major global economies from 2015 to 2023. By combining World Bank data with wage growth and housing cost indicators, the analysis introduces an **Economic Pressure Index** to measure how inflation, rent, and wage stagnation affect consumers.
