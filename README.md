@@ -1,2 +1,3 @@
-# fullstackcostofliving
-Global cost of living crisis data analysis dashboard
+# full-stack cost of living crisis
+
+![full-stack cost of living crisis](Readmecolc.pdf)
